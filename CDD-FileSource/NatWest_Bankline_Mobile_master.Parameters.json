@@ -1,1 +1,40 @@
-
+{
+	"parameters": [
+		{
+			"name": "BUSINESS_APPLICATION_NAME",
+			"value": "NatWest Bankline Mobile"
+		},
+		{
+			"name": "BUSINESS_APPLICATION_VERSION_NAME",
+			"value": "master"
+		},
+		{
+			"name": "APPLICATION1_NAME",
+			"value": "NatWest-Personal-Current-Accounts"
+		},
+		{
+			"name": "APPLICATION1_VERSION_NAME",
+			"value": "master"
+		},
+		{
+			"name": "APPLICATION2_NAME",
+			"value": "NatWest-Premier-Current-Accounts"
+		},
+		{
+			"name": "APPLICATION2_VERSION_NAME",
+			"value": "master"
+		},
+		{
+			"name": "APPLICATION3_NAME",
+			"value": "NatWest-MoneySense"
+		},
+		{
+			"name": "APPLICATION3_VERSION_NAME",
+			"value": "master"
+		}
+	],
+	"reference": {
+		"fileName": "CDD-FileSource/NatWest_Biometric_Payment_master.json",
+		"fileSource": "NatWest Biometric Payment"
+	}
+}
